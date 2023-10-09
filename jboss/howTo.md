@@ -1,5 +1,7 @@
 ## Building and running the exploit
 
+> Ensure you have java (jdk) and maven installed else follow this tutorial by @digitalocean https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu
+
 ### First we create a simple maven project 
 
 > maven will give us a hello world web app.
